@@ -4,3 +4,4 @@
 node_modules/
 Exercise Files/
 npm-debug.log
+src/api/db.json

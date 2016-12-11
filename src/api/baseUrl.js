@@ -8,7 +8,4 @@ export default function getBaseUrl() {
   } else {
     return '/'
   }
-  //const inDevelopment = window.location.hostname === 'localhost' || ;
-  //return inDevelopment ? 'http://localhost:8081/' : '/';
-  //return 'https://starterkit-luckpradeep.c9users.io:8081/';
 }
